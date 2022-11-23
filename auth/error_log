@@ -1,0 +1,19 @@
+[13-Jun-2022 17:11:32 Asia/Jakarta] PHP Notice:  Undefined index: expire_cookie_swal in /home/styleco2/pemweb.stylecoder.xyz/functions/penting.php on line 51
+[13-Jun-2022 17:11:54 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:13:48 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:13:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7
+[13-Jun-2022 17:13:57 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:14:14 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:14:14 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7
+[13-Jun-2022 17:14:31 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:16:38 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:16:38 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7
+[13-Jun-2022 17:27:49 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:30:45 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:30:45 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7
+[13-Jun-2022 17:30:57 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:31:31 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:31:31 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7
+[13-Jun-2022 17:31:45 Asia/Jakarta] PHP Notice:  session_start(): A session had already been started - ignoring in /home/styleco2/pemweb.stylecoder.xyz/auth/proses/loginact.php on line 21
+[13-Jun-2022 17:34:55 Asia/Jakarta] PHP Notice:  Undefined index: username in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 6
+[13-Jun-2022 17:34:55 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/styleco2/pemweb.stylecoder.xyz/auth/logout.php on line 7

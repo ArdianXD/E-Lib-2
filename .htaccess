@@ -1,0 +1,7 @@
+RewriteEngine On
+FallbackResource /page/404.php
+RewriteBase /
+<Files .env>
+    order allow,deny
+    deny from all
+</Files>

@@ -32,11 +32,11 @@ require_once __DIR__ . '/../../vendor/autoload.php';
 </head>
 
 <?php
-            $sql_user = 'SELECT nama, username, email, id_user FROM user';
-            $query_user = mysqli_query($con, $sql_user);
+                $sql_user = 'SELECT nama, username, email, id_user FROM user';
+                $query_user = mysqli_query($con, $sql_user);
 
-            $sql_book = 'SELECT id_buku, judulbuku, kategoribuku, author, file_buku,stok, total_pinjam FROM hlmnbuku';
-            $query_book = mysqli_query($con, $sql_book);
+                $sql_book = 'SELECT id_buku, judulbuku, kategoribuku, author, file_buku,stok, total_pinjam FROM hlmnbuku';
+                $query_book = mysqli_query($con, $sql_book);
             ?>
 
 <body>
